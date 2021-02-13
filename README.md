@@ -1,0 +1,2 @@
+# UnityDefineSymbolWindow
+UnityのDefineSymbolの設定ツール
