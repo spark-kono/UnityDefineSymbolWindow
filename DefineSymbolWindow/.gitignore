@@ -4,9 +4,9 @@
 # =============== #
 **/[Ll]ibrary/
 **/[Oo]bj/
-**/[Pp]ackage/
+**/[Pp]ackages/
 **/[Tt]emp/
-**/[Ll]og/
+**/[Ll]ogs/
 
 *.stackdump
 *.unitypackage
@@ -26,3 +26,4 @@
 *.svd
 *.tmp
 *.user
+*.csproj
