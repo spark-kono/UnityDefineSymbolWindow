@@ -3,7 +3,10 @@
 # Unity generated #
 # =============== #
 **/[Ll]ibrary/
+**/[Oo]bj/
+**/[Pp]ackage/
 **/[Tt]emp/
+**/[Ll]og/
 
 *.stackdump
 *.unitypackage
