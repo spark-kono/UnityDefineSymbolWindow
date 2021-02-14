@@ -1,0 +1,25 @@
+# *.keystore
+# =============== #
+# Unity generated #
+# =============== #
+**/[Ll]ibrary/
+**/[Tt]emp/
+
+*.stackdump
+*.unitypackage
+*.unitypackage.meta
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+*/[Ee]xported[Oo]bj/
+*.vs
+*.userprefs
+*.pidb
+*.suo
+*.sln
+*.unityproj
+*.booproj
+*.svd
+*.tmp
+*.user
