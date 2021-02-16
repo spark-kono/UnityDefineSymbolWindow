@@ -6,6 +6,7 @@ DefineSymbolWindowは全てのプラットフォームに対応しています�
 
 Unity上部のItemMenuにTools項目があるのでクリックしてDefineSymbolWindowのOpenで開くことが出来ます。
 
+
 BuildTargetGroupSetting:
 
 ・Unity側でBuildTargetGroupが更新されれば自動的にプラットフォーム項目も自動更新されます。
@@ -15,6 +16,7 @@ BuildTargetGroupSetting:
 ・チェック項目は最後にSetした内容がセーブデータに保存され次回開いたときにロードされます。
 
 ・Resetはリセットされた情報がセーブされます。
+
 
 DefineSumbolSetting：
 
