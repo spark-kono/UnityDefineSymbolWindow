@@ -575,7 +575,9 @@ PlayerSettings:
   webGLThreadsSupport: 0
   webGLWasmStreaming: 0
   scriptingDefineSymbols:
-    1: 
+    1: A;C;E;G;I;K;M;O;P;S;T;U
+    4: 
+    7: A;C;E;G;I;K;M;O;P;S;T;U
     27: 
   platformArchitecture: {}
   scriptingBackend: {}
