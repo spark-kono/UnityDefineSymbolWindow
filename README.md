@@ -1,18 +1,31 @@
 # UnityDefineSymbolWindow
+
 UnityのDefineSymbolの設定ツール
+
 DefineSymbolWindowは全てのプラットフォームに対応しています。
+
 Unity上部のItemMenuにTools項目があるのでクリックしてDefineSymbolWindowのOpenで開くことが出来ます。
 
 BuildTargetGroupSetting:
+
 ・Unity側でBuildTargetGroupが更新されれば自動的にプラットフォーム項目も自動更新されます。
+
 ・選択されたプラットフォームのPlayerSettingのみ影響を受けます。
+
 ・チェック項目は最後にSetした内容がセーブデータに保存され次回開いたときにロードされます。
+
 ・Resetはリセットされた情報がセーブされます。
 
 DefineSumbolSetting：
+
 ・AddとRemoveでシンボルの追加と削除を行えます。
+
 ・選択されたプラットフォームのDefine設定は一旦全てクリアされてからDefineSumbolSettingの設定が反映されます。
+
 ・チェックが付いているかつシンボルの入力設定がなされているものが反映されます。
+
 ・PlayerSetting側で手動入力した設定等は反映されないので全てこのツールで管理することになります。
+
 ・最後にSetした内容がセーブデータに保存され次回開いたときにロードされます。
+
 ・Resetはリセットされた情報がセーブされます。
